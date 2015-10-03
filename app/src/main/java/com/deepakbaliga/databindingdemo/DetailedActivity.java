@@ -67,8 +67,4 @@ public class DetailedActivity extends AppCompatActivity {
     }
 
 
-    @Override
-    public void onBackPressed() {
-        finishAfterTransition();
-    }
 }
